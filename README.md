@@ -1,6 +1,6 @@
 # ML-Algorithms
 
-## Linear Regression
-## KNN
-## SVM
-## K-Means
+### Linear Regression
+### KNN
+### SVM
+### K-Means
